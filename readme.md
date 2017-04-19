@@ -7,8 +7,6 @@ I get a lot of questions by email. This way anyone can read the answer! Anything
 ## About me
 I am a web developer, software engineer, and student currently living in Lagos, Nigeria. My interests range from technology to entrepreneurship. I am also interested in programming, web development, and innovation.
 
-
-
 I'm [@othreecodes](https://www.twitter.com/othreecodes) on twitter.
 
 ## Guidelines
